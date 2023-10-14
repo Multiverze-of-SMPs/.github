@@ -11,8 +11,8 @@ Those servers being:
 - GGSMP
 - MemeSMP Rising
 - MemeSMP
-[!IMPORTANT]
-The GGSMP, MemeSMP Rising & MemeSMP are all finished and won't get a renewed Season.
+> [!IMPORTANT]
+> The GGSMP, MemeSMP Rising & MemeSMP are all finished and won't get a renewed Season.
 
 ## CAVESMP
 The CAVESMP is a private modded Minecraft server with storyline events set in the very same multiverse as the other servers.
