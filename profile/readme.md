@@ -19,6 +19,9 @@ The CAVESMP is a private modded Minecraft server with storyline events set in th
 This time, the members has the occasional to travel to other universes but only to defend them against multiversal threats.
 The CAVESMP is currently in its 2nd Season and won't be with the list of ended servers very soon.
 
+The CAVESMP has it's own GitHub Page:
+https://github.com/cavesmp
+
 ## GGSMP
 The GGSMP, like the CAVESMP is also a private server (like any other server in the franchise) but is the last Vanilla like Minecraft server in the franchise.
 It's the first server to have real factions (countries) where members can join or create.
