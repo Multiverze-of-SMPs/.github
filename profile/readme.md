@@ -2,7 +2,7 @@
   &darr; Scroll down for Organization Information! &darr;
 </p>
 
-![Guardians of the Multiverze](https://github.com/CAVESMP/.github/blob/main/profile/guardians_of_the_multiverze_transparent.png)
+![Guardians of the Multiverze](https://github.com/Multiverze-of-SMPs/.github/blob/main/profile/guardians_of_the_multiverze.png)
 
 # Multiverze of SMPs
 The Multiverze of SMPs is a Minecraft Multi-server franchise where all of our hosted servers, share the same multiverse.
